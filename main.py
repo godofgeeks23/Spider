@@ -4,12 +4,15 @@ from spider import Spider
 from domain import *
 from general import *
 
-PROJECT_NAME = 'viper-seo'
-HOMEPAGE = 'http://viper-seo.com/'
+# ask project name
+PROJECT_NAME = input('Enter project name: ')
+# ask home page url
+HOMEPAGE = input('Enter homepage: ')
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
-NUMBER_OF_THREADS = 8
+# ask number of threads
+NUMBER_OF_THREADS = int(input('Enter number of threads: '))
 queue = Queue()
 Spider(PROJECT_NAME, HOMEPAGE, DOMAIN_NAME)
 
