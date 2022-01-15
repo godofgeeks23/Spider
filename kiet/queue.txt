@@ -1,0 +1,1853 @@
+http://erp.kiet.edu/Library
+http://koha.kiet.edu
+http://lms.kiet.edu/moodle/
+http://lms.kiet.edu/moodle/?redirect=0
+http://lms.kiet.edu/moodle/admin/tool/dataprivacy/summary.php
+http://lms.kiet.edu/moodle/login/forgot_password.php
+http://lms.kiet.edu/moodle/login/index.php
+http://mca.kiet.edu/techedge/
+http://moodle.kiet.edu/moodle/login/index.php
+http://www.kiet.edu/uploads/New Folder/research_notice.pdf
+https://archive.kiet.edu/career/Career.php
+https://tech.kiet.edu/StudentPortal
+https://tech.kiet.edu/StudentPortal/
+https://tech.kiet.edu/hrms
+https://tech.kiet.edu/hrms/
+https://www.kiet.edu/#/Home
+https://www.kiet.edu/#collapse-A
+https://www.kiet.edu/#collapse-B
+https://www.kiet.edu/#collapse-C
+https://www.kiet.edu/#collapse-D
+https://www.kiet.edu/#collapse-E
+https://www.kiet.edu/#collapse-F
+https://www.kiet.edu/#collapse-G
+https://www.kiet.edu/#collapse-I
+https://www.kiet.edu/#collapse-J
+https://www.kiet.edu/#content
+https://www.kiet.edu/#maincontent
+https://www.kiet.edu/#pane-A
+https://www.kiet.edu/#pane-B
+https://www.kiet.edu/#pane-C
+https://www.kiet.edu/#pane-D
+https://www.kiet.edu/#pane-E
+https://www.kiet.edu/#pane-F
+https://www.kiet.edu/#pane-G
+https://www.kiet.edu/#pane-H
+https://www.kiet.edu/#pane-I
+https://www.kiet.edu/#pane-J
+https://www.kiet.edu/10.1002/dac.4122
+https://www.kiet.edu/10.1007/978-3-319-23258-4_12
+https://www.kiet.edu/10.14419/ijet.v7i4.5.21143
+https://www.kiet.edu/10.35940/ijeat.F9270.088619
+https://www.kiet.edu/10.35940/ijitee.A3920.119119
+https://www.kiet.edu/10.35940/ijitee.K1421.0981119
+https://www.kiet.edu/10.35940/ijrte.D8076.118419
+https://www.kiet.edu/10.4018/IJOCI.2019040104
+https://www.kiet.edu/10.5120/21820-5150
+https://www.kiet.edu/10.5120/ijca2017914160
+https://www.kiet.edu/10.5815/ijcnis.2017.10.01
+https://www.kiet.edu/10.5815/ijitcs.2015.12.03.
+https://www.kiet.edu/10.5815/ijmecs.2019.02.04
+https://www.kiet.edu/<?php echo new moodle_url('/'); ?>
+https://www.kiet.edu/AAO-5752-2020
+https://www.kiet.edu/Automating Duplicate Detection for Lexical Heterogeneous Web Databases | Bentham Science (eurekaselect.net)
+https://www.kiet.edu/Code_Of_Ethics_IRCDC
+https://www.kiet.edu/Congratulations The Entire Team Of The EEE Department
+https://www.kiet.edu/Consultancy_Rules_IRCDC
+https://www.kiet.edu/Consultancy_Services_and_Expertise_IRCDC
+https://www.kiet.edu/Doi link is not working on researchgate
+https://www.kiet.edu/Environment, Development and Sustainability | Home (springer.com)
+https://www.kiet.edu/French Foreign Languages
+https://www.kiet.edu/German Foreign Languages
+https://www.kiet.edu/IJAER, International Journal of Applied Engineering Research, Engineering Journals, Engineering Research Journal publisher in India, Mechanical Journals in India, Science Journal Publishers in India (ripublication.com)
+https://www.kiet.edu/IJRAT - International Journal of Research in Advent Technology
+https://www.kiet.edu/International Journal of Logistics Systems and Management (IJLSM) Inderscience Publishers - linking academia, business and industry through research
+https://www.kiet.edu/International Journal of Science, Technology & Management
+https://www.kiet.edu/Introduction_To_DPharm
+https://www.kiet.edu/Journal IJCRT( ISSN: 2320-2882 ) International Peer Reviewed Journal and Refereed Journal, Follow ugc approved journal, UGC CARE, 
+https://www.kiet.edu/Journal of The Institution of Engineers (India): Series B
+https://www.kiet.edu/Materials Research Express - IOPscience
+https://www.kiet.edu/Mission_and_Vision_IRCDC
+https://www.kiet.edu/NAAC_Photo_Gallery
+https://www.kiet.edu/Number Of Add On
+https://www.kiet.edu/OverviewKIETDESIGNCLUB
+https://www.kiet.edu/OverviewSAEINDIA
+https://www.kiet.edu/Procedia Computer Science
+https://www.kiet.edu/Research India Publications was established in 1998 and now today we are one of the  leading International Publishers (ripublication.com)
+https://www.kiet.edu/Team_IRCDC
+https://www.kiet.edu/about-itss
+https://www.kiet.edu/accomodation
+https://www.kiet.edu/auditorium
+https://www.kiet.edu/blog/2019/08/
+https://www.kiet.edu/blog/2019/09/
+https://www.kiet.edu/blog/2019/12/
+https://www.kiet.edu/blog/2020/03/
+https://www.kiet.edu/blog/2020/04/
+https://www.kiet.edu/blog/2020/05/
+https://www.kiet.edu/blog/2020/06/
+https://www.kiet.edu/blog/2021/08/
+https://www.kiet.edu/blog/2021/10/
+https://www.kiet.edu/blog/author/admin/
+https://www.kiet.edu/blog/category/biomedical/
+https://www.kiet.edu/blog/category/celebrate-life/
+https://www.kiet.edu/blog/category/corona/
+https://www.kiet.edu/blog/category/engineering/
+https://www.kiet.edu/blog/category/expert-talk/
+https://www.kiet.edu/blog/category/future-of-work-series/
+https://www.kiet.edu/blog/category/stuents-corner/
+https://www.kiet.edu/blog/category/uncategorized/
+https://www.kiet.edu/blog/celebrate-life/caution-fasten-your-seat-belts-you-are-now-on-a-roller-coaster-ride-called-life/#comment-167
+https://www.kiet.edu/blog/celebrate-life/caution-fasten-your-seat-belts-you-are-now-on-a-roller-coaster-ride-called-life/#comment-171
+https://www.kiet.edu/blog/celebrate-life/journey-from-no-more-to-where-the-mind-is-without-fear/#comment-156
+https://www.kiet.edu/blog/celebrate-life/journey-from-no-more-to-where-the-mind-is-without-fear/#comment-168
+https://www.kiet.edu/blog/corona/all-you-need-to-know-about-covid-19-vaccines/
+https://www.kiet.edu/blog/corona/all-you-need-to-know-about-covid-19-vaccines/ 
+https://www.kiet.edu/blog/corona/all-you-need-to-know-about-covid-19-vaccines/#respond
+https://www.kiet.edu/blog/engineering/changing-faces-of-automotive-technology-and-future-engineers/
+https://www.kiet.edu/blog/engineering/changing-faces-of-automotive-technology-and-future-engineers/ 
+https://www.kiet.edu/blog/engineering/changing-faces-of-automotive-technology-and-future-engineers/#respond
+https://www.kiet.edu/blog/engineering/construction-industry-carbon-footprint/
+https://www.kiet.edu/blog/engineering/construction-industry-carbon-footprint/ 
+https://www.kiet.edu/blog/engineering/construction-industry-carbon-footprint/#respond
+https://www.kiet.edu/blog/engineering/it-career-guide-scope-courses-and-jobs/
+https://www.kiet.edu/blog/engineering/it-career-guide-scope-courses-and-jobs/ 
+https://www.kiet.edu/blog/engineering/new-paradigm-in-biomedical-engineering/
+https://www.kiet.edu/blog/engineering/new-paradigm-in-biomedical-engineering/ 
+https://www.kiet.edu/blog/engineering/new-paradigm-in-biomedical-engineering/#respond
+https://www.kiet.edu/blog/expert-talk/the-undying-spirit-of-electrical-and-electronics-engineering-at-kiet-its-alumni-network/
+https://www.kiet.edu/blog/expert-talk/the-undying-spirit-of-electrical-and-electronics-engineering-at-kiet-its-alumni-network/ 
+https://www.kiet.edu/blog/expert-talk/the-undying-spirit-of-electrical-and-electronics-engineering-at-kiet-its-alumni-network/#comment-169
+https://www.kiet.edu/blog/expert-talk/the-undying-spirit-of-electrical-and-electronics-engineering-at-kiet-its-alumni-network/#comments
+https://www.kiet.edu/blog/future-of-work-series/career-opportunities-for-mechanical-engineering-graduates/
+https://www.kiet.edu/blog/future-of-work-series/career-opportunities-for-mechanical-engineering-graduates/ 
+https://www.kiet.edu/blog/future-of-work-series/career-opportunities-for-mechanical-engineering-graduates/#respond
+https://www.kiet.edu/blog/future-of-work-series/electronics-and-instrumentation-engineering-complete-career-guide/
+https://www.kiet.edu/blog/future-of-work-series/electronics-and-instrumentation-engineering-complete-career-guide/ 
+https://www.kiet.edu/blog/future-of-work-series/electronics-and-instrumentation-engineering-complete-career-guide/#respond
+https://www.kiet.edu/blog/future-of-work-series/on-campus-business-incubators-an-opportunity-for-young-entrepreneurs/
+https://www.kiet.edu/blog/future-of-work-series/on-campus-business-incubators-an-opportunity-for-young-entrepreneurs/ 
+https://www.kiet.edu/blog/future-of-work-series/on-campus-business-incubators-an-opportunity-for-young-entrepreneurs/#comments
+https://www.kiet.edu/blog/page/2/
+https://www.kiet.edu/blog/page/4/
+https://www.kiet.edu/caferteria
+https://www.kiet.edu/cgi-bin/koha/opac-main.pl
+https://www.kiet.edu/cgi-bin/koha/opac-password-recovery.pl
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=list&category=1
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=list&category=2
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=309&sortfield=title
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=31&sortfield=title
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=32&sortfield=title
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=37&sortfield=title
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=38&sortfield=title
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=39&sortfield=title
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=40&sortfield=title
+https://www.kiet.edu/cgi-bin/koha/opac-shelves.pl?op=view&shelfnumber=42&sortfield=title
+https://www.kiet.edu/cgi-bin/koha/opac-user.pl
+https://www.kiet.edu/course/coursedetail/MQ==
+https://www.kiet.edu/course/coursedetail/MTA=
+https://www.kiet.edu/course/coursedetail/MTE=
+https://www.kiet.edu/course/coursedetail/MTM=
+https://www.kiet.edu/course/coursedetail/MTQ=
+https://www.kiet.edu/course/coursedetail/MTY=
+https://www.kiet.edu/course/coursedetail/MTc=
+https://www.kiet.edu/course/coursedetail/MTg=
+https://www.kiet.edu/course/coursedetail/MTk=
+https://www.kiet.edu/course/coursedetail/Mg==
+https://www.kiet.edu/course/coursedetail/MjE=
+https://www.kiet.edu/course/coursedetail/MjQ=
+https://www.kiet.edu/course/coursedetail/MjU=
+https://www.kiet.edu/course/coursedetail/MjY=
+https://www.kiet.edu/course/coursedetail/Mjc=
+https://www.kiet.edu/course/coursedetail/Mjg=
+https://www.kiet.edu/course/coursedetail/Mw==
+https://www.kiet.edu/course/coursedetail/NA==
+https://www.kiet.edu/course/coursedetail/NQ==
+https://www.kiet.edu/course/coursedetail/Ng==
+https://www.kiet.edu/course/coursedetail/OA==
+https://www.kiet.edu/course/coursedetail/OQ==
+https://www.kiet.edu/course/index/MQ==
+https://www.kiet.edu/course/index/MTA=
+https://www.kiet.edu/course/index/MTE=
+https://www.kiet.edu/course/index/MTM=
+https://www.kiet.edu/course/index/MTY=
+https://www.kiet.edu/course/index/Mw==
+https://www.kiet.edu/course/index/NA==
+https://www.kiet.edu/course/index/NQ==
+https://www.kiet.edu/course/index/Ng==
+https://www.kiet.edu/course/index/Nw==
+https://www.kiet.edu/course/index/OQ==
+https://www.kiet.edu/happenings/apply_adam
+https://www.kiet.edu/happenings/events_detail/MTA1
+https://www.kiet.edu/happenings/events_detail/MTA2
+https://www.kiet.edu/happenings/events_detail/MTE4
+https://www.kiet.edu/happenings/events_detail/MTEx
+https://www.kiet.edu/happenings/events_detail/MTEy
+https://www.kiet.edu/happenings/events_detail/MTIy
+https://www.kiet.edu/happenings/events_detail/MTM0
+https://www.kiet.edu/happenings/events_detail/MTM2
+https://www.kiet.edu/happenings/events_detail/MTMw
+https://www.kiet.edu/happenings/events_detail/MTMz
+https://www.kiet.edu/happenings/events_detail/MTQ0
+https://www.kiet.edu/happenings/events_detail/MTQ1
+https://www.kiet.edu/happenings/events_detail/MTQ3
+https://www.kiet.edu/happenings/events_detail/MTQ4
+https://www.kiet.edu/happenings/events_detail/MTQ5
+https://www.kiet.edu/happenings/events_detail/MTU5
+https://www.kiet.edu/happenings/events_detail/MTc1
+https://www.kiet.edu/happenings/events_detail/MTc2
+https://www.kiet.edu/happenings/events_detail/MTc5
+https://www.kiet.edu/happenings/events_detail/MTcy
+https://www.kiet.edu/happenings/events_detail/MTkx
+https://www.kiet.edu/happenings/events_detail/MjAx
+https://www.kiet.edu/happenings/events_detail/MjEx
+https://www.kiet.edu/happenings/events_detail/MjI0
+https://www.kiet.edu/happenings/events_detail/MjI3
+https://www.kiet.edu/happenings/events_detail/MjM1
+https://www.kiet.edu/happenings/events_detail/MjM2
+https://www.kiet.edu/happenings/events_detail/MjM3
+https://www.kiet.edu/happenings/events_detail/MjM4
+https://www.kiet.edu/happenings/events_detail/MjMz
+https://www.kiet.edu/happenings/events_detail/MjQ0
+https://www.kiet.edu/happenings/events_detail/MjQz
+https://www.kiet.edu/happenings/events_detail/MjU2
+https://www.kiet.edu/happenings/events_detail/MjU5
+https://www.kiet.edu/happenings/events_detail/MjY1
+https://www.kiet.edu/happenings/events_detail/MjY3
+https://www.kiet.edu/happenings/events_detail/MjYw
+https://www.kiet.edu/happenings/events_detail/Mjc0
+https://www.kiet.edu/happenings/events_detail/Mjc1
+https://www.kiet.edu/happenings/events_detail/Mjc2
+https://www.kiet.edu/happenings/events_detail/Mjc3
+https://www.kiet.edu/happenings/events_detail/Mjc4
+https://www.kiet.edu/happenings/events_detail/Mjc5
+https://www.kiet.edu/happenings/events_detail/Mjcx
+https://www.kiet.edu/happenings/events_detail/Mjcy
+https://www.kiet.edu/happenings/events_detail/Mjcz
+https://www.kiet.edu/happenings/events_detail/Mjg0
+https://www.kiet.edu/happenings/events_detail/Mjg1
+https://www.kiet.edu/happenings/events_detail/Mjg2
+https://www.kiet.edu/happenings/events_detail/Mjg4
+https://www.kiet.edu/happenings/events_detail/Mjg5
+https://www.kiet.edu/happenings/events_detail/Mjgw
+https://www.kiet.edu/happenings/events_detail/Mjgx
+https://www.kiet.edu/happenings/events_detail/Mjgy
+https://www.kiet.edu/happenings/events_detail/Mjgz
+https://www.kiet.edu/happenings/events_detail/Mjk0
+https://www.kiet.edu/happenings/events_detail/Mjk1
+https://www.kiet.edu/happenings/events_detail/Mjk2
+https://www.kiet.edu/happenings/events_detail/Mjk3
+https://www.kiet.edu/happenings/events_detail/Mjk4
+https://www.kiet.edu/happenings/events_detail/Mjk5
+https://www.kiet.edu/happenings/events_detail/MzA3
+https://www.kiet.edu/happenings/events_detail/MzA4
+https://www.kiet.edu/happenings/events_detail/MzA5
+https://www.kiet.edu/happenings/events_detail/MzAw
+https://www.kiet.edu/happenings/events_detail/MzAx
+https://www.kiet.edu/happenings/events_detail/MzAy
+https://www.kiet.edu/happenings/events_detail/MzE0
+https://www.kiet.edu/happenings/events_detail/MzE1
+https://www.kiet.edu/happenings/events_detail/MzEw
+https://www.kiet.edu/happenings/events_detail/MzEx
+https://www.kiet.edu/happenings/events_detail/MzEy
+https://www.kiet.edu/happenings/events_detail/MzEz
+https://www.kiet.edu/happenings/events_detail/MzI0
+https://www.kiet.edu/happenings/events_detail/MzI2
+https://www.kiet.edu/happenings/events_detail/MzI3
+https://www.kiet.edu/happenings/events_detail/MzIx
+https://www.kiet.edu/happenings/events_detail/MzMw
+https://www.kiet.edu/happenings/events_detail/MzQ1
+https://www.kiet.edu/happenings/events_detail/MzQ3
+https://www.kiet.edu/happenings/events_detail/MzQ5
+https://www.kiet.edu/happenings/events_detail/MzU0
+https://www.kiet.edu/happenings/events_detail/MzU2
+https://www.kiet.edu/happenings/events_detail/MzUy
+https://www.kiet.edu/happenings/events_detail/MzY0
+https://www.kiet.edu/happenings/events_detail/MzY3
+https://www.kiet.edu/happenings/events_detail/MzY5
+https://www.kiet.edu/happenings/events_detail/MzYx
+https://www.kiet.edu/happenings/events_detail/MzYy
+https://www.kiet.edu/happenings/events_detail/MzYz
+https://www.kiet.edu/happenings/events_detail/Mzc1
+https://www.kiet.edu/happenings/events_detail/Mzc5
+https://www.kiet.edu/happenings/events_detail/Mzg4
+https://www.kiet.edu/happenings/events_detail/Mzg5
+https://www.kiet.edu/happenings/events_detail/Mzgx
+https://www.kiet.edu/happenings/events_detail/Mzk4
+https://www.kiet.edu/happenings/events_detail/Mzkz
+https://www.kiet.edu/happenings/events_detail/NDAy
+https://www.kiet.edu/happenings/events_detail/NDI4
+https://www.kiet.edu/happenings/events_detail/NDIz
+https://www.kiet.edu/happenings/events_detail/NDM0
+https://www.kiet.edu/happenings/events_detail/NDM3
+https://www.kiet.edu/happenings/events_detail/NDMw
+https://www.kiet.edu/happenings/events_detail/NDMy
+https://www.kiet.edu/happenings/events_detail/NDMz
+https://www.kiet.edu/happenings/events_detail/NDQ1
+https://www.kiet.edu/happenings/events_detail/NDQ2
+https://www.kiet.edu/happenings/events_detail/NDQy
+https://www.kiet.edu/happenings/events_detail/NDU0
+https://www.kiet.edu/happenings/events_detail/NDU2
+https://www.kiet.edu/happenings/events_detail/NDU3
+https://www.kiet.edu/happenings/events_detail/NDU5
+https://www.kiet.edu/happenings/events_detail/NDY2
+https://www.kiet.edu/happenings/events_detail/NDY3
+https://www.kiet.edu/happenings/events_detail/NDY4
+https://www.kiet.edu/happenings/events_detail/NDYw
+https://www.kiet.edu/happenings/events_detail/NDYy
+https://www.kiet.edu/happenings/events_detail/NDYz
+https://www.kiet.edu/happenings/events_detail/NDc0
+https://www.kiet.edu/happenings/events_detail/NDc2
+https://www.kiet.edu/happenings/events_detail/NDc4
+https://www.kiet.edu/happenings/events_detail/NDcw
+https://www.kiet.edu/happenings/events_detail/NDcx
+https://www.kiet.edu/happenings/events_detail/NDcy
+https://www.kiet.edu/happenings/events_detail/NDcz
+https://www.kiet.edu/happenings/events_detail/NDg2
+https://www.kiet.edu/happenings/events_detail/NDg=
+https://www.kiet.edu/happenings/events_detail/NDgy
+https://www.kiet.edu/happenings/events_detail/NDgz
+https://www.kiet.edu/happenings/events_detail/NDk0
+https://www.kiet.edu/happenings/events_detail/NDk1
+https://www.kiet.edu/happenings/events_detail/NDk2
+https://www.kiet.edu/happenings/events_detail/NDk3
+https://www.kiet.edu/happenings/events_detail/NDk5
+https://www.kiet.edu/happenings/events_detail/NQ==
+https://www.kiet.edu/happenings/events_detail/NTA0
+https://www.kiet.edu/happenings/events_detail/NTA2
+https://www.kiet.edu/happenings/events_detail/NTAw
+https://www.kiet.edu/happenings/events_detail/NTAx
+https://www.kiet.edu/happenings/events_detail/NTE2
+https://www.kiet.edu/happenings/events_detail/NTE3
+https://www.kiet.edu/happenings/events_detail/NTE4
+https://www.kiet.edu/happenings/events_detail/NTEx
+https://www.kiet.edu/happenings/events_detail/NTI0
+https://www.kiet.edu/happenings/events_detail/NTI2
+https://www.kiet.edu/happenings/events_detail/NTI3
+https://www.kiet.edu/happenings/events_detail/NTIw
+https://www.kiet.edu/happenings/events_detail/NTIy
+https://www.kiet.edu/happenings/events_detail/NTM2
+https://www.kiet.edu/happenings/events_detail/NTM3
+https://www.kiet.edu/happenings/events_detail/NTM4
+https://www.kiet.edu/happenings/events_detail/NTQ0
+https://www.kiet.edu/happenings/events_detail/NTQ1
+https://www.kiet.edu/happenings/events_detail/NTU0
+https://www.kiet.edu/happenings/events_detail/NTU1
+https://www.kiet.edu/happenings/events_detail/NTU2
+https://www.kiet.edu/happenings/events_detail/NTU3
+https://www.kiet.edu/happenings/events_detail/NTYw
+https://www.kiet.edu/happenings/events_detail/NTYx
+https://www.kiet.edu/happenings/events_detail/NTYy
+https://www.kiet.edu/happenings/events_detail/NTcw
+https://www.kiet.edu/happenings/gallery_img_list/MTA0
+https://www.kiet.edu/happenings/gallery_img_list/MTA1
+https://www.kiet.edu/happenings/gallery_img_list/MTEy
+https://www.kiet.edu/happenings/gallery_img_list/MTI5
+https://www.kiet.edu/happenings/gallery_img_list/MTIz
+https://www.kiet.edu/happenings/gallery_img_list/MTM1
+https://www.kiet.edu/happenings/gallery_img_list/MTM3
+https://www.kiet.edu/happenings/gallery_img_list/MTMx
+https://www.kiet.edu/happenings/gallery_img_list/MTMy
+https://www.kiet.edu/happenings/gallery_img_list/MTQ1
+https://www.kiet.edu/happenings/gallery_img_list/MTQ2
+https://www.kiet.edu/happenings/gallery_img_list/MTQ5
+https://www.kiet.edu/happenings/gallery_img_list/MTU0
+https://www.kiet.edu/happenings/gallery_img_list/MTU1
+https://www.kiet.edu/happenings/gallery_img_list/MTU2
+https://www.kiet.edu/happenings/gallery_img_list/MTU3
+https://www.kiet.edu/happenings/gallery_img_list/MTU4
+https://www.kiet.edu/happenings/gallery_img_list/MTU5
+https://www.kiet.edu/happenings/gallery_img_list/MTUw
+https://www.kiet.edu/happenings/gallery_img_list/MTUx
+https://www.kiet.edu/happenings/gallery_img_list/MTUy
+https://www.kiet.edu/happenings/gallery_img_list/MTc0
+https://www.kiet.edu/happenings/gallery_img_list/MTc3
+https://www.kiet.edu/happenings/gallery_img_list/MTc4
+https://www.kiet.edu/happenings/gallery_img_list/MjAw
+https://www.kiet.edu/happenings/gallery_img_list/MjEw
+https://www.kiet.edu/happenings/gallery_img_list/MjIz
+https://www.kiet.edu/happenings/gallery_img_list/MjM0
+https://www.kiet.edu/happenings/gallery_img_list/MjMw
+https://www.kiet.edu/happenings/gallery_img_list/MjMy
+https://www.kiet.edu/happenings/gallery_img_list/MjQ0
+https://www.kiet.edu/happenings/gallery_img_list/Mjcw
+https://www.kiet.edu/happenings/gallery_img_list/MzE5
+https://www.kiet.edu/happenings/gallery_img_list/MzI1
+https://www.kiet.edu/happenings/gallery_img_list/MzI4
+https://www.kiet.edu/happenings/gallery_img_list/MzIy
+https://www.kiet.edu/happenings/gallery_img_list/MzQ0
+https://www.kiet.edu/happenings/gallery_img_list/MzQ2
+https://www.kiet.edu/happenings/gallery_img_list/MzQ4
+https://www.kiet.edu/happenings/gallery_img_list/MzU1
+https://www.kiet.edu/happenings/gallery_img_list/MzUw
+https://www.kiet.edu/happenings/gallery_img_list/MzUx
+https://www.kiet.edu/happenings/gallery_img_list/MzUz
+https://www.kiet.edu/happenings/gallery_img_list/MzY2
+https://www.kiet.edu/happenings/gallery_img_list/MzYw
+https://www.kiet.edu/happenings/gallery_img_list/Mzc0
+https://www.kiet.edu/happenings/gallery_img_list/Mzc4
+https://www.kiet.edu/happenings/gallery_img_list/Mzcw
+https://www.kiet.edu/happenings/gallery_img_list/Mzgw
+https://www.kiet.edu/happenings/gallery_img_list/Mzky
+https://www.kiet.edu/happenings/gallery_img_list/NDA0
+https://www.kiet.edu/happenings/gallery_img_list/NDAx
+https://www.kiet.edu/happenings/gallery_img_list/NDAz
+https://www.kiet.edu/happenings/gallery_img_list/NDI2
+https://www.kiet.edu/happenings/gallery_img_list/NDI3
+https://www.kiet.edu/happenings/gallery_img_list/NDI5
+https://www.kiet.edu/happenings/gallery_img_list/NDIy
+https://www.kiet.edu/happenings/gallery_img_list/NDM1
+https://www.kiet.edu/happenings/gallery_img_list/NDM2
+https://www.kiet.edu/happenings/gallery_img_list/NDMx
+https://www.kiet.edu/happenings/gallery_img_list/NDQ0
+https://www.kiet.edu/happenings/gallery_img_list/NDQ2
+https://www.kiet.edu/happenings/gallery_img_list/NDQy
+https://www.kiet.edu/happenings/gallery_img_list/NDU1
+https://www.kiet.edu/happenings/gallery_img_list/NDU4
+https://www.kiet.edu/happenings/gallery_img_list/NDY5
+https://www.kiet.edu/happenings/gallery_img_list/NDc1
+https://www.kiet.edu/happenings/gallery_img_list/NDcz
+https://www.kiet.edu/happenings/gallery_img_list/NDg3
+https://www.kiet.edu/happenings/gallery_img_list/NDk0
+https://www.kiet.edu/happenings/gallery_img_list/NDkw
+https://www.kiet.edu/happenings/gallery_img_list/NDkx
+https://www.kiet.edu/happenings/gallery_img_list/NTA1
+https://www.kiet.edu/happenings/gallery_img_list/NTAy
+https://www.kiet.edu/happenings/gallery_img_list/NTAz
+https://www.kiet.edu/happenings/gallery_img_list/NTE1
+https://www.kiet.edu/happenings/gallery_img_list/NTE2
+https://www.kiet.edu/happenings/gallery_img_list/NTE5
+https://www.kiet.edu/happenings/gallery_img_list/NTEy
+https://www.kiet.edu/happenings/gallery_img_list/NTEz
+https://www.kiet.edu/happenings/gallery_img_list/NTIx
+https://www.kiet.edu/happenings/gallery_img_list/NTIz
+https://www.kiet.edu/happenings/gallery_img_list/NTM3
+https://www.kiet.edu/happenings/gallery_img_list/NTQ0
+https://www.kiet.edu/happenings/gallery_img_list/NTQ2
+https://www.kiet.edu/happenings/gallery_img_list/NTU0
+https://www.kiet.edu/happenings/gallery_img_list/NTU1
+https://www.kiet.edu/happenings/gallery_img_list/NTU2
+https://www.kiet.edu/happenings/gallery_img_list/NTU5
+https://www.kiet.edu/happenings/gallery_img_list/NTc=
+https://www.kiet.edu/happenings/gallery_img_list/NTcx
+https://www.kiet.edu/happenings/gallery_img_list/NTk=
+https://www.kiet.edu/happenings/gallery_img_list/NjA=
+https://www.kiet.edu/happenings/gallery_img_list/NjE=
+https://www.kiet.edu/happenings/gallery_img_list/NjI=
+https://www.kiet.edu/happenings/gallery_img_list/NjM=
+https://www.kiet.edu/happenings/gallery_img_list/NjQ=
+https://www.kiet.edu/happenings/gallery_img_list/NjU=
+https://www.kiet.edu/happenings/gallery_img_list/NjY=
+https://www.kiet.edu/happenings/news_detail/MjI5
+https://www.kiet.edu/happenings/news_detail/MjMx
+https://www.kiet.edu/happenings/news_detail/NDA1
+https://www.kiet.edu/happenings/news_detail/NDM4
+https://www.kiet.edu/happenings/news_detail/NTE=
+https://www.kiet.edu/health-and-well-being
+https://www.kiet.edu/home/adam/MTQ=/contactus
+https://www.kiet.edu/home/adam/MTQ=/course
+https://www.kiet.edu/home/adam/MTQ=/faq
+https://www.kiet.edu/home/adam/MTQ=/fee
+https://www.kiet.edu/home/adam/MTQ=/gallery
+https://www.kiet.edu/home/adam/MTQ=/hod
+https://www.kiet.edu/home/adam/MTQ=/infra
+https://www.kiet.edu/home/adam/MTQ=/news
+https://www.kiet.edu/home/adam/MTQ=/procedure
+https://www.kiet.edu/home/adam/MTQ=/staff
+https://www.kiet.edu/home/caw/MTg=/contactus
+https://www.kiet.edu/home/caw/MTg=/course
+https://www.kiet.edu/home/caw/MTg=/fee
+https://www.kiet.edu/home/caw/MTg=/procedure
+https://www.kiet.edu/home/department
+https://www.kiet.edu/home/department_deanmsg/OA==
+https://www.kiet.edu/home/department_wise_club_detail/MA==/MzI=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/MzY=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/Mzg=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/Mzk=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NDA=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NDM=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NDQ=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NDU=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NDY=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NDc=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NDg=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NDk=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NTA=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NTY=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NTc=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MA==/NTg=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MQ==/MjI=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MQ==/MjM=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MQ==/MjQ=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTA=/MTc=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTA=/Mjc=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTA=/NTM=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTA=/NTU=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTE=/MzA=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTE=/MzE=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTE=/NTQ=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTM=/MTg=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/MTY=/MzU=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/Mg==/MjA=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/NA==/NQ==/student_club
+https://www.kiet.edu/home/department_wise_club_detail/NA==/Ng==/student_club
+https://www.kiet.edu/home/department_wise_club_detail/NA==/Nw==/student_club
+https://www.kiet.edu/home/department_wise_club_detail/NA==/OQ==/student_club
+https://www.kiet.edu/home/department_wise_club_detail/NQ==/Mw==/student_club
+https://www.kiet.edu/home/department_wise_club_detail/NQ==/NA==/student_club
+https://www.kiet.edu/home/department_wise_club_detail/Ng==/MTM=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/Ng==/MTQ=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/Ng==/MTU=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/Nw==/MTk=/student_club
+https://www.kiet.edu/home/department_wise_club_detail/OQ==/NTE=/student_club
+https://www.kiet.edu/home/department_wise_detail/MQ==/about
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/NQ==
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/MQ==/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/MQ==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/MQ==/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/MQ==/announcement
+https://www.kiet.edu/home/department_wise_detail/MQ==/gallery
+https://www.kiet.edu/home/department_wise_detail/MQ==/happenings_data
+https://www.kiet.edu/home/department_wise_detail/MQ==/hod
+https://www.kiet.edu/home/department_wise_detail/MQ==/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/MQ==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/MQ==/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/MQ==/placement
+https://www.kiet.edu/home/department_wise_detail/MQ==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/MQ==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/MQ==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/MQ==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/MQ==/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/MQ==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/MQ==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/MQ==/research/OA==
+https://www.kiet.edu/home/department_wise_detail/MQ==/student_club
+https://www.kiet.edu/home/department_wise_detail/MQ==/testimonials
+https://www.kiet.edu/home/department_wise_detail/MQ==/vac
+https://www.kiet.edu/home/department_wise_detail/MTA=/about
+https://www.kiet.edu/home/department_wise_detail/MTA=/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTA=/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTA=/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/MTA=/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/MTA=/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/MTA=/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/MTA=/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/MTA=/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTA=/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTA=/gallery
+https://www.kiet.edu/home/department_wise_detail/MTA=/happenings_data
+https://www.kiet.edu/home/department_wise_detail/MTA=/hod
+https://www.kiet.edu/home/department_wise_detail/MTA=/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTA=/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTA=/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTA=/links
+https://www.kiet.edu/home/department_wise_detail/MTA=/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTA=/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/MTA=/research/NA==
+https://www.kiet.edu/home/department_wise_detail/MTA=/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/MTA=/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/MTA=/research/OA==
+https://www.kiet.edu/home/department_wise_detail/MTA=/student_club
+https://www.kiet.edu/home/department_wise_detail/MTA=/testimonials
+https://www.kiet.edu/home/department_wise_detail/MTE=/about
+https://www.kiet.edu/home/department_wise_detail/MTE=/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTE=/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTE=/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/MTE=/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/MTE=/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/MTE=/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/MTE=/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/MTE=/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/MTE=/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTE=/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTE=/announcement
+https://www.kiet.edu/home/department_wise_detail/MTE=/gallery
+https://www.kiet.edu/home/department_wise_detail/MTE=/happenings_data
+https://www.kiet.edu/home/department_wise_detail/MTE=/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTE=/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTE=/infra/NA==
+https://www.kiet.edu/home/department_wise_detail/MTE=/links
+https://www.kiet.edu/home/department_wise_detail/MTE=/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTE=/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTE=/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/MTE=/research/NA==
+https://www.kiet.edu/home/department_wise_detail/MTE=/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTE=/research/OA==
+https://www.kiet.edu/home/department_wise_detail/MTE=/student_club
+https://www.kiet.edu/home/department_wise_detail/MTE=/testimonials
+https://www.kiet.edu/home/department_wise_detail/MTE=/vac
+https://www.kiet.edu/home/department_wise_detail/MTI=/about
+https://www.kiet.edu/home/department_wise_detail/MTI=/gallery
+https://www.kiet.edu/home/department_wise_detail/MTI=/hod
+https://www.kiet.edu/home/department_wise_detail/MTI=/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTI=/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTI=/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/MTI=/research/NA==
+https://www.kiet.edu/home/department_wise_detail/MTI=/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTI=/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/MTI=/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/MTI=/research/OA==
+https://www.kiet.edu/home/department_wise_detail/MTM=/about
+https://www.kiet.edu/home/department_wise_detail/MTM=/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTM=/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/MTM=/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/MTM=/academic_activities/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTM=/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/MTM=/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/MTM=/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/MTM=/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/MTM=/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTM=/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTM=/gallery
+https://www.kiet.edu/home/department_wise_detail/MTM=/happenings_data
+https://www.kiet.edu/home/department_wise_detail/MTM=/hod
+https://www.kiet.edu/home/department_wise_detail/MTM=/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTM=/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTM=/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTM=/links
+https://www.kiet.edu/home/department_wise_detail/MTM=/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTM=/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/MTM=/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTM=/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/MTM=/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/MTM=/research/OA==
+https://www.kiet.edu/home/department_wise_detail/MTM=/student_club
+https://www.kiet.edu/home/department_wise_detail/MTY=/about
+https://www.kiet.edu/home/department_wise_detail/MTY=/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTY=/academic_activities/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTY=/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/MTY=/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/MTY=/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/MTY=/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/MTY=/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTY=/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTY=/gallery
+https://www.kiet.edu/home/department_wise_detail/MTY=/hod
+https://www.kiet.edu/home/department_wise_detail/MTY=/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/MTY=/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTY=/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTY=/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/MTY=/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/MTY=/research/NA==
+https://www.kiet.edu/home/department_wise_detail/MTY=/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/MTY=/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/MTY=/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/MTY=/student_club
+https://www.kiet.edu/home/department_wise_detail/MTY=/testimonials
+https://www.kiet.edu/home/department_wise_detail/Mg==/about
+https://www.kiet.edu/home/department_wise_detail/Mg==/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/Mg==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/Mg==/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/Mg==/academic_activities/NQ==
+https://www.kiet.edu/home/department_wise_detail/Mg==/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/Mg==/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/Mg==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/Mg==/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/Mg==/gallery
+https://www.kiet.edu/home/department_wise_detail/Mg==/hod
+https://www.kiet.edu/home/department_wise_detail/Mg==/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/Mg==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/Mg==/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/Mg==/links
+https://www.kiet.edu/home/department_wise_detail/Mg==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/Mg==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/Mg==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/Mg==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/Mg==/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/Mg==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/Mg==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/Mg==/research/OA==
+https://www.kiet.edu/home/department_wise_detail/Mg==/student_club
+https://www.kiet.edu/home/department_wise_detail/Mg==/testimonials
+https://www.kiet.edu/home/department_wise_detail/Mg==/vac
+https://www.kiet.edu/home/department_wise_detail/Mw==/about
+https://www.kiet.edu/home/department_wise_detail/Mw==/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/Mw==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/Mw==/academic_activities/NQ==
+https://www.kiet.edu/home/department_wise_detail/Mw==/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/Mw==/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/Mw==/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/Mw==/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/Mw==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/Mw==/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/Mw==/gallery
+https://www.kiet.edu/home/department_wise_detail/Mw==/happenings_data
+https://www.kiet.edu/home/department_wise_detail/Mw==/hod
+https://www.kiet.edu/home/department_wise_detail/Mw==/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/Mw==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/Mw==/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/Mw==/links
+https://www.kiet.edu/home/department_wise_detail/Mw==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/Mw==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/Mw==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/Mw==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/Mw==/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/Mw==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/Mw==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/Mw==/research/OA==
+https://www.kiet.edu/home/department_wise_detail/Mw==/testimonials
+https://www.kiet.edu/home/department_wise_detail/NA==/about
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/NQ==
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/NA==/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/NA==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/NA==/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/NA==/announcement
+https://www.kiet.edu/home/department_wise_detail/NA==/gallery
+https://www.kiet.edu/home/department_wise_detail/NA==/happenings_data
+https://www.kiet.edu/home/department_wise_detail/NA==/hod
+https://www.kiet.edu/home/department_wise_detail/NA==/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/NA==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/NA==/infra/Mw==
+https://www.kiet.edu/home/department_wise_detail/NA==/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/NA==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/NA==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/NA==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/NA==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/NA==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/NA==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/NA==/research/OA==
+https://www.kiet.edu/home/department_wise_detail/NA==/student_club
+https://www.kiet.edu/home/department_wise_detail/NA==/testimonials
+https://www.kiet.edu/home/department_wise_detail/NA==/vac
+https://www.kiet.edu/home/department_wise_detail/NQ==/about
+https://www.kiet.edu/home/department_wise_detail/NQ==/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/NQ==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/NQ==/academic_activities/NQ==
+https://www.kiet.edu/home/department_wise_detail/NQ==/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/NQ==/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/NQ==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/NQ==/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/NQ==/announcement
+https://www.kiet.edu/home/department_wise_detail/NQ==/gallery
+https://www.kiet.edu/home/department_wise_detail/NQ==/happenings_data
+https://www.kiet.edu/home/department_wise_detail/NQ==/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/NQ==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/NQ==/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/NQ==/links
+https://www.kiet.edu/home/department_wise_detail/NQ==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/NQ==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/NQ==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/NQ==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/NQ==/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/NQ==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/NQ==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/NQ==/research/OA==
+https://www.kiet.edu/home/department_wise_detail/NQ==/student_club
+https://www.kiet.edu/home/department_wise_detail/NQ==/testimonials
+https://www.kiet.edu/home/department_wise_detail/Ng==/about
+https://www.kiet.edu/home/department_wise_detail/Ng==/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/Ng==/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/Ng==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/Ng==/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/Ng==/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/Ng==/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/Ng==/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/Ng==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/Ng==/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/Ng==/gallery
+https://www.kiet.edu/home/department_wise_detail/Ng==/happenings_data
+https://www.kiet.edu/home/department_wise_detail/Ng==/hod
+https://www.kiet.edu/home/department_wise_detail/Ng==/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/Ng==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/Ng==/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/Ng==/links
+https://www.kiet.edu/home/department_wise_detail/Ng==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/Ng==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/Ng==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/Ng==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/Ng==/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/Ng==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/Ng==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/Ng==/student_club
+https://www.kiet.edu/home/department_wise_detail/Ng==/testimonials
+https://www.kiet.edu/home/department_wise_detail/Ng==/vac
+https://www.kiet.edu/home/department_wise_detail/Nw==/about
+https://www.kiet.edu/home/department_wise_detail/Nw==/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/Nw==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/Nw==/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/Nw==/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/Nw==/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/Nw==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/Nw==/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/Nw==/happenings_data
+https://www.kiet.edu/home/department_wise_detail/Nw==/hod
+https://www.kiet.edu/home/department_wise_detail/Nw==/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/Nw==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/Nw==/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/Nw==/links
+https://www.kiet.edu/home/department_wise_detail/Nw==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/Nw==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/Nw==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/Nw==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/Nw==/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/Nw==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/Nw==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/Nw==/research/OA==
+https://www.kiet.edu/home/department_wise_detail/Nw==/student_club
+https://www.kiet.edu/home/department_wise_detail/Nw==/testimonials
+https://www.kiet.edu/home/department_wise_detail/Nw==/vac
+https://www.kiet.edu/home/department_wise_detail/OA==/about
+https://www.kiet.edu/home/department_wise_detail/OA==/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/OA==/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/OA==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/OA==/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/OA==/academic_activities/Ng==
+https://www.kiet.edu/home/department_wise_detail/OA==/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/OA==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/OA==/announcement
+https://www.kiet.edu/home/department_wise_detail/OA==/gallery
+https://www.kiet.edu/home/department_wise_detail/OA==/hod
+https://www.kiet.edu/home/department_wise_detail/OA==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/OA==/links
+https://www.kiet.edu/home/department_wise_detail/OA==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/OA==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/OA==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/OA==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/OA==/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/OA==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/OA==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/OA==/research/OA==
+https://www.kiet.edu/home/department_wise_detail/OA==/testimonials
+https://www.kiet.edu/home/department_wise_detail/OQ==/about
+https://www.kiet.edu/home/department_wise_detail/OQ==/academic_activities/MQ==
+https://www.kiet.edu/home/department_wise_detail/OQ==/academic_activities/Mg==
+https://www.kiet.edu/home/department_wise_detail/OQ==/academic_activities/Mw==
+https://www.kiet.edu/home/department_wise_detail/OQ==/academic_activities/NA==
+https://www.kiet.edu/home/department_wise_detail/OQ==/academic_activities/NQ==
+https://www.kiet.edu/home/department_wise_detail/OQ==/academic_activities/Nw==
+https://www.kiet.edu/home/department_wise_detail/OQ==/academic_activities/OA==
+https://www.kiet.edu/home/department_wise_detail/OQ==/academic_activities/OQ==
+https://www.kiet.edu/home/department_wise_detail/OQ==/acheivement/MQ==
+https://www.kiet.edu/home/department_wise_detail/OQ==/acheivement/Mg==
+https://www.kiet.edu/home/department_wise_detail/OQ==/announcement
+https://www.kiet.edu/home/department_wise_detail/OQ==/gallery
+https://www.kiet.edu/home/department_wise_detail/OQ==/hod
+https://www.kiet.edu/home/department_wise_detail/OQ==/infra/MQ==
+https://www.kiet.edu/home/department_wise_detail/OQ==/infra/Mg==
+https://www.kiet.edu/home/department_wise_detail/OQ==/infra/NA==
+https://www.kiet.edu/home/department_wise_detail/OQ==/infra/NQ==
+https://www.kiet.edu/home/department_wise_detail/OQ==/links
+https://www.kiet.edu/home/department_wise_detail/OQ==/research/MQ==
+https://www.kiet.edu/home/department_wise_detail/OQ==/research/Mg==
+https://www.kiet.edu/home/department_wise_detail/OQ==/research/Mw==
+https://www.kiet.edu/home/department_wise_detail/OQ==/research/NA==
+https://www.kiet.edu/home/department_wise_detail/OQ==/research/NQ==
+https://www.kiet.edu/home/department_wise_detail/OQ==/research/Ng==
+https://www.kiet.edu/home/department_wise_detail/OQ==/research/Nw==
+https://www.kiet.edu/home/department_wise_detail/OQ==/research/OA==
+https://www.kiet.edu/home/department_wise_detail/OQ==/student_club
+https://www.kiet.edu/home/department_wise_detail/OQ==/testimonials
+https://www.kiet.edu/home/department_wise_detail/OQ==/vac
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTM5
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTQ1
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTQ3
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTQ5
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTQy
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTU1
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTU2
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTU3
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTU4
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTU5
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTUw
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTUz
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTY2
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTY3
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTY4
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTY5
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTYw
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTYy
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTYz
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTc0
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTc2
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTcw
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTcx
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MTcz
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/Mw==
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzU0
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzU2
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzU3
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzU4
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzU5
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzUw
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzUx
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzUy
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/MzYw
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/Mzk2
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/Mzk4
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/Mzk5
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/NA==
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/NDAw
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/NDQy
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/NDcy
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/NDcz
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/NQ==
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/NTQ2
+https://www.kiet.edu/home/department_wise_faculty_detail/MQ==/NTQ3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTA0
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTA1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTA3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTA4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTA5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTAw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTAx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTAy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTAz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTEw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTEx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/MTEz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/NDAx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/NDEw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/NDI3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/NDY3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/NTMx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTA=/NTMy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/Mjk0
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/Mjk1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/Mjk4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/Mjk5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzA1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzA3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzA4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzA5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzAx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzAz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzE1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzE2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzE4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzEw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzEx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzEy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzEz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzIw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/MzIx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDIx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDIy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDIz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDQ0
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDQ1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDQ2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDQ3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDQ4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDQ5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDUw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDUy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDUz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDcw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDgy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDgz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDk4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NDky
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NTA5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NTIw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NTIx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NTM4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NTM5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTE=/NTMz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTE0
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTE1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTE2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTE5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTI0
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTI1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTI2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTI5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTIw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTIx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTIy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTIz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTM1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTM3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTM4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTMw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTMy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/MTMz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDE3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDE4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDEx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDEy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDEz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDM2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDM3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDg1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NDg2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NTA2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NTE2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NTE3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NTEz
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NTU2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTM=/NTU3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/Mzg4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/Mzk0
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/Mzk1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NDU2
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NDk3
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTA4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTAx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTAy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTE0
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTE4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTI4
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTI5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTMw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTQ0
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTQ1
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTQ5
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTQw
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTQx
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTQy
+https://www.kiet.edu/home/department_wise_faculty_detail/MTY=/NTQz
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/MzQ2
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDA5
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDY1
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDY2
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDYz
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDg4
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDg5
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDk0
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDk2
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NDkw
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NTAw
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NTE5
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NTM1
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NTM2
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NTM3
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NTU0
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NTU1
+https://www.kiet.edu/home/department_wise_faculty_detail/Mw==/NTYy
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MTQ0
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MTQ4
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MTQw
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MTQz
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MTU=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MTg=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MTk=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MjA=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MjM=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MjU=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MjY=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Mjc=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Mjk=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MzA=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MzI=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MzIy
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MzM=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MzQ=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/MzY=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Mzc2
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Mzc4
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Mzc=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Mzk=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NDA=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NDE=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NDM5
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NDU=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NDY=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NDc=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NDk=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NTM=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NTQ=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NTU=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NTc=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NTg=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NjI=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NjM=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NjQ=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NjY=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Njc=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Njg=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Njk=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NzE=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NzQ=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NzU=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/NzY=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Nzc=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/Nzk=
+https://www.kiet.edu/home/department_wise_faculty_detail/NA==/ODA=
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjA1
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjA2
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjA3
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjA4
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjE1
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjE5
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjEw
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjEx
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjI3
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjI5
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/MjMw
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/Mzky
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDA2
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDAy
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDI2
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDU0
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDU4
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDU5
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDYw
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDc0
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDc1
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDc2
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDc3
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NDgx
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTA3
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTEx
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTI0
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTI1
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTI2
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTI3
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTIz
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTU5
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NTUz
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/NjE=
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/Nw==
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/ODI=
+https://www.kiet.edu/home/department_wise_faculty_detail/NQ==/OQ==
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MTA=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MTE=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MTM=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MTQ=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MTY=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/Mjg=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzE=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzI1
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzI3
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzI4
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzI5
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzIz
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzM0
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzM1
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzM2
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzM3
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzM4
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzM5
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzMy
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzMz
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzQw
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzQy
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzU=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzY3
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzY4
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/MzYx
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/Mzg=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NDI5
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NDIw
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NDQ=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NDg=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NTA=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NTE=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NTU4
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NTY=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NjA=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NjU=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/NzA=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/ODE=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/ODM=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/ODU=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/ODY=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/ODc=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/ODg=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/ODk=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/OTA=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/OTE=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/OTM=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/OTQ=
+https://www.kiet.edu/home/department_wise_faculty_detail/Ng==/OTg=
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTc4
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTg0
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTg5
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTgx
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTgy
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTgz
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTk0
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTk1
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTk4
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTk5
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTkw
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MTky
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MjA0
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MjAx
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MjAy
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/MzY5
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/Mzc1
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/Mzcw
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/Mzgw
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/NDM0
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/NDM4
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/NDMy
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/NDMz
+https://www.kiet.edu/home/department_wise_faculty_detail/Nw==/NDYx
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjM0
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjM1
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjM3
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjM4
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjM5
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjMz
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQ0
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQ1
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQ2
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQ3
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQ4
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQw
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQx
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQy
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjQz
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjU1
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjU3
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjU5
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjUx
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjUy
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjY1
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjY2
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjY3
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjY4
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjY5
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjYx
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/MjYz
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/Mjcw
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/Mjcx
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/Mjcy
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/NDA0
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/NTM0
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/NTQ4
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/NTUw
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/NTUx
+https://www.kiet.edu/home/department_wise_faculty_detail/OA==/NTUy
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjc2
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjc3
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjc4
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjc5
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjg1
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjg2
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjg3
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjg4
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjg5
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjgw
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjgx
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjgy
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjgz
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mjkx
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/MzQx
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/MzQz
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/Mzcz
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/NDY5
+https://www.kiet.edu/home/department_wise_faculty_detail/OQ==/NTIy
+https://www.kiet.edu/home/department_wise_faculty_list/MTA=
+https://www.kiet.edu/home/department_wise_faculty_list/MTE=
+https://www.kiet.edu/home/department_wise_faculty_list/MTM=
+https://www.kiet.edu/home/department_wise_faculty_list/MTY=
+https://www.kiet.edu/home/department_wise_faculty_list/Mg==
+https://www.kiet.edu/home/department_wise_faculty_list/Mw==
+https://www.kiet.edu/home/department_wise_faculty_list/NA==
+https://www.kiet.edu/home/department_wise_faculty_list/NQ==
+https://www.kiet.edu/home/department_wise_faculty_list/Ng==
+https://www.kiet.edu/home/department_wise_faculty_list/Nw==
+https://www.kiet.edu/home/department_wise_faculty_list/OA==
+https://www.kiet.edu/home/department_wise_faculty_list/OQ==
+https://www.kiet.edu/home/department_wise_visiting_faculty_list/MTY=
+https://www.kiet.edu/home/enggdepartments/
+https://www.kiet.edu/home/readiness_course/MTQ=
+https://www.kiet.edu/home/readiness_course/MTU=
+https://www.kiet.edu/home/readiness_course/MTg=
+https://www.kiet.edu/itss-functions-and-activities-itss
+https://www.kiet.edu/kiet-infrastructure-classrooms
+https://www.kiet.edu/kiet-labs
+https://www.kiet.edu/kiet-transport-facility
+https://www.kiet.edu/kiet/assets/frontend/img/20181231161032_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231161126_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231161207_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231161334_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231161422_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231161738_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231161953_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231162901_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231162951_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20181231163039_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/20190108125507_001.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/AICTE Cirtificate.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/NIRF Ranking.jpg
+https://www.kiet.edu/kiet/assets/frontend/img/NPTEL.jpg
+https://www.kiet.edu/kiet/assets/pdf/AICTE-FEE-REFUND-POLICY.pdf
+https://www.kiet.edu/kiet/assets/pdf/AKTU-Circular-C.S.T.U.P-student-grant.pdf
+https://www.kiet.edu/kiet/assets/pdf/AKTU-Circular-ITU-(ALTTC-Ghaziabad).pdf
+https://www.kiet.edu/kiet/assets/pdf/AKTU-Circular-Industry-readiness.pdf
+https://www.kiet.edu/kiet/assets/pdf/AKTU-Circular-NOE-(081)-MOOCS.pdf
+https://www.kiet.edu/kiet/assets/pdf/AKTU-circular-regarding-supporting-fund-(Divyang).pdf
+https://www.kiet.edu/kiet/assets/pdf/AQAR-of-the-IQAC 2017-18.pdf
+https://www.kiet.edu/kiet/assets/pdf/Anti-Ragging_RaghvanReport.pdf
+https://www.kiet.edu/kiet/assets/pdf/Anti-Ragging_SupremeCourtOrder.pdf
+https://www.kiet.edu/kiet/assets/pdf/AntiRagging_HowToFillUndertaking.pdf
+https://www.kiet.edu/kiet/assets/pdf/Area-of-Research.pdf
+https://www.kiet.edu/kiet/assets/pdf/Cover-letter-AQAR.pdf
+https://www.kiet.edu/kiet/assets/pdf/Covering-Letter.pdf
+https://www.kiet.edu/kiet/assets/pdf/Disposal-of-document-Policy.pdf
+https://www.kiet.edu/kiet/assets/pdf/Information-Brochure.pdf
+https://www.kiet.edu/kiet/assets/pdf/Office-Note-Flexible-timings.pdf
+https://www.kiet.edu/kiet/assets/pdf/Punishment-AntiRagging.pdf
+https://www.kiet.edu/kiet/assets/pdf/Startup-Investor-Summit-2018.pdf
+https://www.kiet.edu/kiet/assets/pdf/Transportation-Timing-During-Exam.pdf
+https://www.kiet.edu/kiet/assets/pdf/what_antiragging.pdf
+https://www.kiet.edu/learning-%20and-pedagogy
+https://www.kiet.edu/linkedin.com/in/chirag-arora-b395a5163
+https://www.kiet.edu/malayajournal.org/index.php/mjm
+https://www.kiet.edu/registrations/
+https://www.kiet.edu/researchgate.net/publication/339841764_Synthesis_Antimicrobial_and_Molecular_Docking_Studies_of_13-Thiazolidin-4-one_Analogues_Bearing_Benzothiazole
+https://www.kiet.edu/sports-grounds-and-courts
+https://www.kiet.edu/team-itss
+https://www.kiet.edu/uploads/AKTU/AKTU_Notice 28 Aug.pdf
+https://www.kiet.edu/uploads/ARIIA.pdf
+https://www.kiet.edu/uploads/deanA/002_AQAR Report - (2019 - 20).pdf
+https://www.kiet.edu/uploads/deanA/003_Regarding Non Credit Courses KNC301 KNC302 Registration for Session 2020-21.pdf
+https://www.kiet.edu/uploads/deanA/004_Regarding Tentative List of Group Wise Top 10 Students of Academic Session 2019-20.pdf
+https://www.kiet.edu/uploads/deanA/005_Webinar on NEP 2020.pdf
+https://www.kiet.edu/uploads/deansw/Office Order 15.pdf
+https://www.kiet.edu/uploads/department/EEE/PlacementStudents.pdf
+https://www.kiet.edu/uploads/department/EN/Joint Activity Report2019.pdf
+https://www.kiet.edu/uploads/department/EN/Joint Activity ReportJan-June 2020.pdf
+https://www.kiet.edu/uploads/department/EN/Success Story EN.pdf
+https://www.kiet.edu/uploads/department/EN/lectures/Dr Bharti.jpg
+https://www.kiet.edu/uploads/department/EN/lectures/Dr Pavel Loskot - Copy.jpg
+https://www.kiet.edu/uploads/department/EN/lectures/Dr Sheel Aditys.jpg
+https://www.kiet.edu/uploads/department/EN/lectures/Dr. Alvaro Rocha .jpg
+https://www.kiet.edu/uploads/department/EN/lectures/Dr. Sunil Vadera .jpg
+https://www.kiet.edu/uploads/department/EN/lectures/Dr. Thuy T Le 3.jpg
+https://www.kiet.edu/uploads/department/HR/01022021DronacharyaAwardees201920.pdf
+https://www.kiet.edu/uploads/department/HR/01022021OutstandingFacultyAward201920.pdf
+https://www.kiet.edu/uploads/department/HR/01022021StaffEmployeeAwardees(NonTeaching)201920.pdf
+https://www.kiet.edu/uploads/department/HR/2019_HR.pdf
+https://www.kiet.edu/uploads/department/HR/C.V. Raman Awardees 2018-19.pdf
+https://www.kiet.edu/uploads/department/HR/CV Raman Awardees- Website Updates.pdf
+https://www.kiet.edu/uploads/department/HR/Dhronacharya Awardees 2018-19.pdf
+https://www.kiet.edu/uploads/department/HR/Outstanding Faculty 2018-19.pdf
+https://www.kiet.edu/uploads/department/HR/Star(Non Teaching) Employee of the Year 2018-19.pdf
+https://www.kiet.edu/uploads/department/HR/Staremployeeoftheyear2019.pdf
+https://www.kiet.edu/uploads/department/HS/CourseOutcomesKNC201.pdf
+https://www.kiet.edu/uploads/department/MCA/049_3.pdf
+https://www.kiet.edu/uploads/department/MCA/Project_Exhibition_2K21.pdf
+https://www.kiet.edu/uploads/department/admin/0032021Jan.jpg
+https://www.kiet.edu/uploads/department/admin/0111052021.jpg
+https://www.kiet.edu/uploads/department/admin/0129052021.jpg
+https://www.kiet.edu/uploads/department/admin/012_AQAR Report (2018-19).pdf
+https://www.kiet.edu/uploads/department/admin/013_AQAR Report 2019-20.pdf
+https://www.kiet.edu/uploads/department/admin/014March2021.jpg
+https://www.kiet.edu/uploads/department/admin/068AcademicCalendarAugust20March21.pdf
+https://www.kiet.edu/uploads/department/admin/071_affilation letter.pdf
+https://www.kiet.edu/uploads/department/admin/072NISP.pdf
+https://www.kiet.edu/uploads/department/admin/072_AICTE PRAGATI & SAKSHAM SCHOLARSHIP SCHEME.pdf
+https://www.kiet.edu/uploads/department/admin/073startuppolicy2019.pdf
+https://www.kiet.edu/uploads/department/admin/074AICTE_APPROVAL_LETTER.PDF
+https://www.kiet.edu/uploads/department/admin/074MANDATORY_DISCLOSURE.pdf
+https://www.kiet.edu/uploads/department/admin/105July2021.jpg
+https://www.kiet.edu/uploads/department/admin/1102_KIET_ICICI Bank offer.pdf
+https://www.kiet.edu/uploads/department/admin/137Feb2021.jpg
+https://www.kiet.edu/uploads/department/admin/158Feb2021.jpg
+https://www.kiet.edu/uploads/department/admin/161oct2021.jpg
+https://www.kiet.edu/uploads/department/admin/2020Dec003.jpg
+https://www.kiet.edu/uploads/department/admin/2020Nov051.jpg
+https://www.kiet.edu/uploads/department/admin/2020Nov053.jpg
+https://www.kiet.edu/uploads/department/admin/205nov2021.jpg
+https://www.kiet.edu/uploads/department/admin/206nov2021.jpg
+https://www.kiet.edu/uploads/department/admin/207nov2021.jpg
+https://www.kiet.edu/uploads/department/admin/381dec2021.jpg
+https://www.kiet.edu/uploads/department/admin/382dec2021.jpg
+https://www.kiet.edu/uploads/department/admin/383dec2021.jpg
+https://www.kiet.edu/uploads/department/admin/AQAR-2016-2017.pdf
+https://www.kiet.edu/uploads/department/admin/Academic Calendar 2021-22 (Odd Sem).pdf
+https://www.kiet.edu/uploads/department/admin/AssochamCertificate_1.jpg
+https://www.kiet.edu/uploads/department/admin/BusRoute14June21.pdf
+https://www.kiet.edu/uploads/department/admin/CEGR_19 Dec19.jpg
+https://www.kiet.edu/uploads/department/admin/IQAC_MOM.pdf
+https://www.kiet.edu/uploads/department/admin/Regarding Supreme court order.pdf
+https://www.kiet.edu/uploads/department/admin/acc_cal_2018_2019_Even_Sem.pdf
+https://www.kiet.edu/uploads/department/admin/acc_cal_2018_2019_Odd_sem.pdf
+https://www.kiet.edu/uploads/department/admin/acc_cal_2019_2020_Odd_Sem.pdf
+https://www.kiet.edu/uploads/department/admin/dec41.jpg
+https://www.kiet.edu/uploads/department/admin/june2020_124.jpg
+https://www.kiet.edu/uploads/department/admin/march202042.JPG
+https://www.kiet.edu/uploads/department/announcements/01_09_21_Practical Schedule_A-L.pdf
+https://www.kiet.edu/uploads/department/announcements/01_09_21_Practical Schedule_M-X.pdf
+https://www.kiet.edu/uploads/department/ariia/ARIIA2021.pdf
+https://www.kiet.edu/uploads/department/as/054_Post Covid - Standard Operating Procedure for Workplace - KIET Group of Institutions.pdf
+https://www.kiet.edu/uploads/department/as/BTech1stYearFacultyProfile.pdf
+https://www.kiet.edu/uploads/department/civil/207_CE_At_A_Glance.pdf
+https://www.kiet.edu/uploads/department/civil/208_Covering_Letter_23_April_2021.pdf
+https://www.kiet.edu/uploads/department/civil/CE ALUMNI SUCCESS STORIES.pdf
+https://www.kiet.edu/uploads/department/crpc/006Sep2021CompanyList.pdf
+https://www.kiet.edu/uploads/department/crpc/021_Placement Data_Batch_2018.pdf
+https://www.kiet.edu/uploads/department/crpc/041_Placement Data_Batch 2020.pdf
+https://www.kiet.edu/uploads/department/crpc/Placements Details-2019.pdf
+https://www.kiet.edu/uploads/department/deansw/23022021DSWStudentsExtraCurricularClubs.pdf
+https://www.kiet.edu/uploads/department/deansw/Anti Ragging Committee.pdf
+https://www.kiet.edu/uploads/department/deansw/Anti Ragging Squad.pdf
+https://www.kiet.edu/uploads/department/deansw/clubs/Approval Mechanism for student�s participation outside KIET along with reimbursement form.pdf
+https://www.kiet.edu/uploads/department/deansw/hostel/Hostel Timings and Entry-Out rules.pdf
+https://www.kiet.edu/uploads/department/deansw/hostel/Institute Hostel Management Committee.pdf
+https://www.kiet.edu/uploads/department/deansw/hostel/Rules for HOSTELS.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/001_Office Order 25-2020 Re-Constitution of Institute Proctorial Board.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/002_Formation of Student Club TechEdventure for Virtual Lab Development.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/003_Office Order 17- Formation of Students Higher Education Preparation Club.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/004_Office Order 14 Formationof GPAT club@KSOP.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/005_OFFICE ORDER 11-2019.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/006_Institute Policy for rewarding Top 10 University Rank Holders (24 May19).pdf
+https://www.kiet.edu/uploads/department/deansw/notices/007_Office Order 26-2019 Support to Students-Students participation in Inter  College Competition.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/008_Office Order 23-2019.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/009_Office Order 27 Appointment of Head SD & FS-merged.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/OFFICE ORDER 24-A Formation of EEM Cell & Appointment of Head-EEM Cell.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/Office Order -19-2019 Student Discipline Policy w.e.f Academic Year 2019-20.pdf
+https://www.kiet.edu/uploads/department/deansw/notices/Office Order 06-2019 Establishment of Innovation and Entrepreneurship Council.pdf
+https://www.kiet.edu/uploads/department/deansw/oct_nov2020/repo_rangmanch.pdf
+https://www.kiet.edu/uploads/department/icc/Copy ICC Office Order Re-Organisation.pdf
+https://www.kiet.edu/uploads/department/icc/Office Order 24 Policy to address Sexual Harrasment of Women employees & students @ Workplace.pdf
+https://www.kiet.edu/uploads/department/international/IEAW_2020_A_brief.pdf
+https://www.kiet.edu/uploads/department/mba/2022AlumniInteraction.pdf
+https://www.kiet.edu/uploads/department/mba/203FacultyBooksChaptersPublication.pdf
+https://www.kiet.edu/uploads/department/mba/204FacultyResearchPapersPublication.pdf
+https://www.kiet.edu/uploads/department/mba/205WebinarAttendedbyFaculty.pdf
+https://www.kiet.edu/uploads/department/mba/23122021_KSOM_Faculty_list.pdf
+https://www.kiet.edu/uploads/department/mba/23122021_StudentPlacement.pdf
+https://www.kiet.edu/uploads/department/mba/25122021MBA_Students_list.pdf
+https://www.kiet.edu/uploads/department/mba/BUDGET_KSOM.pdf
+https://www.kiet.edu/uploads/department/mba/nba_mba_2021.pdf
+https://www.kiet.edu/uploads/department/me/Placement 2020-21.pdf
+https://www.kiet.edu/uploads/department/registrar/001_Documents Required_Counselling.pdf
+https://www.kiet.edu/uploads/department/registrar/015_KIET_Student_Booklet_2019_Final.pdf
+https://www.kiet.edu/uploads/department/registrar/086_Student_booklet_2020_2021.pdf
+https://www.kiet.edu/uploads/department/registrar/Documents Required_BTECH_B.PHARM _First Year_Direct- 2020-2021.pdf
+https://www.kiet.edu/uploads/department/registrar/Documents Required_MBA_MCA_M.TECH_M.PHARM_Direct 2020-21.pdf
+https://www.kiet.edu/uploads/department/registrar/PROCESS FLOW HOW TO FILL ONLINE ANTI RAGGING FORM.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/AFFIDAVIT GAP.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/AFFIDAVIT ITR.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/AFFIDAVIT PARENTS.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/AFFIDAVIT STUDENT.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/FEE DETAILS FOR SCHOLARSHIP.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/FIRST YEAR NOTICE - 2021-2022.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/PRAROOP CHH 2021-22.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/RENEWAL NOTICE 2021-2022.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/SEQUENCE OF THE DOCUMENTS TO BE ARRANGED AND FORWARDED.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/SUPPORTING FOR SOURCE OF INCOME.pdf
+https://www.kiet.edu/uploads/department/scholarship/2021-22/TIME TABLE OF UP SCHOLARSHIP.pdf
+https://www.kiet.edu/uploads/media/
+https://www.kiet.edu/uploads/media/103353636.jpg
+https://www.kiet.edu/uploads/media/106781494.jpg
+https://www.kiet.edu/uploads/media/111283761.jpg
+https://www.kiet.edu/uploads/media/111634887.jpg
+https://www.kiet.edu/uploads/media/114932638.jpg
+https://www.kiet.edu/uploads/media/115289513.jpg
+https://www.kiet.edu/uploads/media/118695188.jpg
+https://www.kiet.edu/uploads/media/124996988.jpg
+https://www.kiet.edu/uploads/media/130285529.jpg
+https://www.kiet.edu/uploads/media/138551542.jpg
+https://www.kiet.edu/uploads/media/140707755.jpg
+https://www.kiet.edu/uploads/media/147731606.jpg
+https://www.kiet.edu/uploads/media/147904458.jpg
+https://www.kiet.edu/uploads/media/159539111.jpg
+https://www.kiet.edu/uploads/media/164570530.jpg
+https://www.kiet.edu/uploads/media/168229167.jpg
+https://www.kiet.edu/uploads/media/168907545.jpg
+https://www.kiet.edu/uploads/media/170714709.jpg
+https://www.kiet.edu/uploads/media/171977821.jpg
+https://www.kiet.edu/uploads/media/173466583.jpg
+https://www.kiet.edu/uploads/media/178069418.jpg
+https://www.kiet.edu/uploads/media/179251234.jpg
+https://www.kiet.edu/uploads/media/185101098.jpg
+https://www.kiet.edu/uploads/media/187838778.jpg
+https://www.kiet.edu/uploads/media/19096191.jpg
+https://www.kiet.edu/uploads/media/195754473.jpg
+https://www.kiet.edu/uploads/media/210449946.jpg
+https://www.kiet.edu/uploads/media/21097897.jpg
+https://www.kiet.edu/uploads/media/211237432.jpg
+https://www.kiet.edu/uploads/media/211834052.jpg
+https://www.kiet.edu/uploads/media/21552527.jpg
+https://www.kiet.edu/uploads/media/229079649.jpg
+https://www.kiet.edu/uploads/media/229629730.jpg
+https://www.kiet.edu/uploads/media/237374417.jpg
+https://www.kiet.edu/uploads/media/246045382.jpg
+https://www.kiet.edu/uploads/media/248099557.jpg
+https://www.kiet.edu/uploads/media/258397931.jpg
+https://www.kiet.edu/uploads/media/259188511.jpg
+https://www.kiet.edu/uploads/media/261012327.jpg
+https://www.kiet.edu/uploads/media/273233554.jpg
+https://www.kiet.edu/uploads/media/273260871.jpg
+https://www.kiet.edu/uploads/media/279384851.jpg
+https://www.kiet.edu/uploads/media/281726698.jpg
+https://www.kiet.edu/uploads/media/282454838.jpg
+https://www.kiet.edu/uploads/media/288835660.jpg
+https://www.kiet.edu/uploads/media/294698047.jpg
+https://www.kiet.edu/uploads/media/295725943.jpg
+https://www.kiet.edu/uploads/media/297656803.jpg
+https://www.kiet.edu/uploads/media/303788974.jpg
+https://www.kiet.edu/uploads/media/30890671.jpg
+https://www.kiet.edu/uploads/media/311367612.jpg
+https://www.kiet.edu/uploads/media/313730595.jpg
+https://www.kiet.edu/uploads/media/317019802.jpg
+https://www.kiet.edu/uploads/media/321741640.jpg
+https://www.kiet.edu/uploads/media/323142052.jpg
+https://www.kiet.edu/uploads/media/325919668.jpg
+https://www.kiet.edu/uploads/media/326951261.jpg
+https://www.kiet.edu/uploads/media/329791415.jpg
+https://www.kiet.edu/uploads/media/335580154.jpg
+https://www.kiet.edu/uploads/media/336605183.jpg
+https://www.kiet.edu/uploads/media/338829151.jpg
+https://www.kiet.edu/uploads/media/341112817.jpg
+https://www.kiet.edu/uploads/media/342262648.jpg
+https://www.kiet.edu/uploads/media/348646853.jpg
+https://www.kiet.edu/uploads/media/349235863.jpg
+https://www.kiet.edu/uploads/media/349328132.jpg
+https://www.kiet.edu/uploads/media/354026064.jpg
+https://www.kiet.edu/uploads/media/360559497.jpg
+https://www.kiet.edu/uploads/media/360717559.jpg
+https://www.kiet.edu/uploads/media/361006937.jpg
+https://www.kiet.edu/uploads/media/36334947.jpg
+https://www.kiet.edu/uploads/media/364152148.jpg
+https://www.kiet.edu/uploads/media/369671916.jpg
+https://www.kiet.edu/uploads/media/375862799.jpg
+https://www.kiet.edu/uploads/media/378500089.jpg
+https://www.kiet.edu/uploads/media/389617502.jpg
+https://www.kiet.edu/uploads/media/392997849.jpg
+https://www.kiet.edu/uploads/media/395126051.jpg
+https://www.kiet.edu/uploads/media/39936602.jpg
+https://www.kiet.edu/uploads/media/404014655.jpg
+https://www.kiet.edu/uploads/media/414756680.jpg
+https://www.kiet.edu/uploads/media/415298141.jpg
+https://www.kiet.edu/uploads/media/415860684.jpg
+https://www.kiet.edu/uploads/media/417456729.jpg
+https://www.kiet.edu/uploads/media/418180225.jpg
+https://www.kiet.edu/uploads/media/424232501.jpg
+https://www.kiet.edu/uploads/media/428410202.jpg
+https://www.kiet.edu/uploads/media/431225615.jpg
+https://www.kiet.edu/uploads/media/434385871.jpg
+https://www.kiet.edu/uploads/media/436502913.jpg
+https://www.kiet.edu/uploads/media/436990507.jpg
+https://www.kiet.edu/uploads/media/44116285.jpg
+https://www.kiet.edu/uploads/media/442400295.jpg
+https://www.kiet.edu/uploads/media/444587777.jpg
+https://www.kiet.edu/uploads/media/455993384.jpg
+https://www.kiet.edu/uploads/media/462457001.jpg
+https://www.kiet.edu/uploads/media/462850519.jpg
+https://www.kiet.edu/uploads/media/470103898.jpg
+https://www.kiet.edu/uploads/media/471082011.jpg
+https://www.kiet.edu/uploads/media/474950376.jpg
+https://www.kiet.edu/uploads/media/477858200.jpg
+https://www.kiet.edu/uploads/media/481057720.jpg
+https://www.kiet.edu/uploads/media/481090919.jpg
+https://www.kiet.edu/uploads/media/48626041.jpg
+https://www.kiet.edu/uploads/media/488577938.jpg
+https://www.kiet.edu/uploads/media/494352613.jpg
+https://www.kiet.edu/uploads/media/498846664.jpg
+https://www.kiet.edu/uploads/media/503329812.jpg
+https://www.kiet.edu/uploads/media/505037054.jpg
+https://www.kiet.edu/uploads/media/505957847.jpg
+https://www.kiet.edu/uploads/media/530522309.jpg
+https://www.kiet.edu/uploads/media/531456043.jpg
+https://www.kiet.edu/uploads/media/538029679.jpg
+https://www.kiet.edu/uploads/media/541022901.jpg
+https://www.kiet.edu/uploads/media/551532443.jpg
+https://www.kiet.edu/uploads/media/552395090.jpg
+https://www.kiet.edu/uploads/media/552689567.jpg
+https://www.kiet.edu/uploads/media/552868357.jpg
+https://www.kiet.edu/uploads/media/567557217.jpg
+https://www.kiet.edu/uploads/media/576820170.jpg
+https://www.kiet.edu/uploads/media/580695393.jpg
+https://www.kiet.edu/uploads/media/582001202.jpg
+https://www.kiet.edu/uploads/media/582383778.jpg
+https://www.kiet.edu/uploads/media/587202770.jpg
+https://www.kiet.edu/uploads/media/587381921.jpg
+https://www.kiet.edu/uploads/media/593672240.jpg
+https://www.kiet.edu/uploads/media/594135284.jpg
+https://www.kiet.edu/uploads/media/615692631.jpg
+https://www.kiet.edu/uploads/media/616117063.jpg
+https://www.kiet.edu/uploads/media/619877862.jpg
+https://www.kiet.edu/uploads/media/619911220.jpg
+https://www.kiet.edu/uploads/media/651755526.jpg
+https://www.kiet.edu/uploads/media/655050133.jpg
+https://www.kiet.edu/uploads/media/655143749.jpg
+https://www.kiet.edu/uploads/media/658535404.jpg
+https://www.kiet.edu/uploads/media/66344858.jpg
+https://www.kiet.edu/uploads/media/665985673.jpg
+https://www.kiet.edu/uploads/media/672600024.jpg
+https://www.kiet.edu/uploads/media/676175261.jpg
+https://www.kiet.edu/uploads/media/677442439.jpg
+https://www.kiet.edu/uploads/media/680452276.jpg
+https://www.kiet.edu/uploads/media/687527250.jpg
+https://www.kiet.edu/uploads/media/696174842.jpg
+https://www.kiet.edu/uploads/media/703483141.jpg
+https://www.kiet.edu/uploads/media/7071996.jpg
+https://www.kiet.edu/uploads/media/707997031.jpg
+https://www.kiet.edu/uploads/media/72001091.jpg
+https://www.kiet.edu/uploads/media/722060773.jpg
+https://www.kiet.edu/uploads/media/725750118.jpg
+https://www.kiet.edu/uploads/media/734551863.jpg
+https://www.kiet.edu/uploads/media/735374450.jpg
+https://www.kiet.edu/uploads/media/738976820.jpg
+https://www.kiet.edu/uploads/media/74438158.jpg
+https://www.kiet.edu/uploads/media/745529734.jpg
+https://www.kiet.edu/uploads/media/748121485.jpg
+https://www.kiet.edu/uploads/media/748679452.jpg
+https://www.kiet.edu/uploads/media/750734176.jpg
+https://www.kiet.edu/uploads/media/762192886.jpg
+https://www.kiet.edu/uploads/media/771703224.jpg
+https://www.kiet.edu/uploads/media/778643252.jpg
+https://www.kiet.edu/uploads/media/780139199.jpg
+https://www.kiet.edu/uploads/media/785864452.jpg
+https://www.kiet.edu/uploads/media/795411909.jpg
+https://www.kiet.edu/uploads/media/80036760.jpg
+https://www.kiet.edu/uploads/media/822216399.jpg
+https://www.kiet.edu/uploads/media/825138402.jpg
+https://www.kiet.edu/uploads/media/827761737.jpg
+https://www.kiet.edu/uploads/media/834821771.jpg
+https://www.kiet.edu/uploads/media/841369131.jpg
+https://www.kiet.edu/uploads/media/84152768.jpg
+https://www.kiet.edu/uploads/media/842695677.jpg
+https://www.kiet.edu/uploads/media/845300073.jpg
+https://www.kiet.edu/uploads/media/846512785.jpg
+https://www.kiet.edu/uploads/media/848604761.jpg
+https://www.kiet.edu/uploads/media/853871760.jpg
+https://www.kiet.edu/uploads/media/856995405.jpg
+https://www.kiet.edu/uploads/media/861364873.jpg
+https://www.kiet.edu/uploads/media/861596007.jpg
+https://www.kiet.edu/uploads/media/862652053.jpg
+https://www.kiet.edu/uploads/media/865814829.jpg
+https://www.kiet.edu/uploads/media/86939995.jpg
+https://www.kiet.edu/uploads/media/877111399.jpg
+https://www.kiet.edu/uploads/media/880951620.jpg
+https://www.kiet.edu/uploads/media/884993323.jpg
+https://www.kiet.edu/uploads/media/895651996.jpg
+https://www.kiet.edu/uploads/media/900023865.jpg
+https://www.kiet.edu/uploads/media/905572114.jpg
+https://www.kiet.edu/uploads/media/906022521.jpg
+https://www.kiet.edu/uploads/media/906718229.jpg
+https://www.kiet.edu/uploads/media/918522504.jpg
+https://www.kiet.edu/uploads/media/920518896.jpg
+https://www.kiet.edu/uploads/media/926975809.jpg
+https://www.kiet.edu/uploads/media/930210732.jpg
+https://www.kiet.edu/uploads/media/935486256.jpg
+https://www.kiet.edu/uploads/media/936251799.jpg
+https://www.kiet.edu/uploads/media/941932037.jpg
+https://www.kiet.edu/uploads/media/943084453.jpg
+https://www.kiet.edu/uploads/media/944612015.jpg
+https://www.kiet.edu/uploads/media/944627267.jpg
+https://www.kiet.edu/uploads/media/945045060.jpg
+https://www.kiet.edu/uploads/media/949150375.jpg
+https://www.kiet.edu/uploads/media/950862942.jpg
+https://www.kiet.edu/uploads/media/952884325.jpg
+https://www.kiet.edu/uploads/media/954932083.jpg
+https://www.kiet.edu/uploads/media/956452602.jpg
+https://www.kiet.edu/uploads/media/958302927.jpg
+https://www.kiet.edu/uploads/media/961880625.jpg
+https://www.kiet.edu/uploads/media/964187870.jpg
+https://www.kiet.edu/uploads/media/968257595.jpg
+https://www.kiet.edu/uploads/media/969247372.jpg
+https://www.kiet.edu/uploads/media/972365700.jpg
+https://www.kiet.edu/uploads/media/97406301.jpg
+https://www.kiet.edu/uploads/media/974310679.jpg
+https://www.kiet.edu/uploads/media/974327732.jpg
+https://www.kiet.edu/uploads/media/976393938.jpg
+https://www.kiet.edu/uploads/media/977955122.jpg
+https://www.kiet.edu/uploads/media/981964761.jpg
+https://www.kiet.edu/uploads/media/986416283.jpg
+https://www.kiet.edu/uploads/media/98956777.jpg
+https://www.kiet.edu/uploads/media/992744544.jpg
+https://www.kiet.edu/uploads/media/994808713.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/256813.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/3148835.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/4230576.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/4785330.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/6517519.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/6673340.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/7823035.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/7996535.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/9598222.jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/Darkwings (1).jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/Darkwings (2).jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/Darkwings (3).jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/Darkwings (4).jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/Darkwings (5).jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/Darkwings (6).jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/Darkwings (7).jpg
+https://www.kiet.edu/uploads/media/club_gallery_image/Darkwings (8).jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/1247092.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/1453904.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/174449.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/1762671.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/1848271.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/2223865.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/2293645.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/2586966.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/2816158.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/2851870.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/2852146.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/3236988.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/3496289.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/3793678.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4029261.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4050558.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4173912.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/446543.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/449644.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4582319.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4588677.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4640790.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4722168.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4760383.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/4869790.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/5100214.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/518583.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/5616680.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/5689270.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/6213543.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/640991.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/641634.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/6637434.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/6686516.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/6966532.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/7019919.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/734799.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/7366946.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/7401648.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/7579506.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/7602750.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/7769606.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/788486.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/8018198.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/8020790.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/8333335.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/8466487.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/8716099.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/8727250.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/8766269.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/8965569.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/9170030.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/9323090.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/9374413.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/9723142.jpg
+https://www.kiet.edu/uploads/media/multiple_image_upload/9938000.jpg
+https://www.kiet.edu/uploads/naac/1.1.3 DVV Teachers of the Institution participate in Paper Setting and Evaluation.pdf
+https://www.kiet.edu/uploads/naac/1.1_157.pdf
+https://www.kiet.edu/uploads/naac/1.2 Broucher mentioning program offered during last five years.pdf
+https://www.kiet.edu/uploads/naac/1.2 Number of Programmes offered year wise for the last five years.pdf
+https://www.kiet.edu/uploads/naac/1.2.2 & 1.2.3 SESSION 2018-19 COMBINED CERTIFICATES.pdf
+https://www.kiet.edu/uploads/naac/1.2.2 & 1.2.3 SESSION 2019-20 COMBINED CERTIFICATES.pdf
+https://www.kiet.edu/uploads/naac/1.2.2 & 1.2.3 combined attendance and summary session wise.pdf
+https://www.kiet.edu/uploads/naac/1.2.2 & 1.2.3 session 2015-16 combined certificates.pdf
+https://www.kiet.edu/uploads/naac/1.2.2 & 1.2.3 session 2016-17 combined certificates.pdf
+https://www.kiet.edu/uploads/naac/1.2.2 & 1.2.3 session 2017-18 combined certificates.pdf
+https://www.kiet.edu/uploads/naac/1.3.3 Project work and Industrial Training Certificates (2019-20).pdf
+https://www.kiet.edu/uploads/naac/1.4.1 and 1.4.2 Feedback on Curriculum by stakeholders.pdf
+https://www.kiet.edu/uploads/naac/2.1 DVV List of Students Approved by Affiliating University.pdf
+https://www.kiet.edu/uploads/naac/2.1 Number of students year wise during the last five years.pdf
+https://www.kiet.edu/uploads/naac/2.1.1 DVV Average Enrolment percentage.pdf
+https://www.kiet.edu/uploads/naac/2.2 UPSEE Brochure.pdf
+https://www.kiet.edu/uploads/naac/2.2.1 (a)Induction Program Time Table( Last 3 years).pdf
+https://www.kiet.edu/uploads/naac/2.2.1 (b)Policy for Slow _ Advanced Learners.pdf
+https://www.kiet.edu/uploads/naac/2.2.1 (d) Higher Education Preparation Student Clubs.pdf
+https://www.kiet.edu/uploads/naac/2.2.1 (e) Skill Development Programmes.pdf
+https://www.kiet.edu/uploads/naac/2.2.1 (f)Student Manual-2020-2021.pdf
+https://www.kiet.edu/uploads/naac/2.3 Number of outgoing final year students year-wise during last five years.pdf
+https://www.kiet.edu/uploads/naac/2.3 and 2.6.3 DVV Number of outgoing final year students year wise.pdf
+https://www.kiet.edu/uploads/naac/2.3.1 (a)Innovation Centre & Technical clubs policy.pdf
+https://www.kiet.edu/uploads/naac/2.3.1 (b)Soft skills Policy.pdf
+https://www.kiet.edu/uploads/naac/2.3.1 (c) MoM CRs meetings.pdf
+https://www.kiet.edu/uploads/naac/2.3.1 (d) Outcome Based Education Manual.pdf
+https://www.kiet.edu/uploads/naac/2.3.1 (e) TechEdventure Student Club.pdf
+https://www.kiet.edu/uploads/naac/2.3.3.1-Grievances,Mentor Cards,Mentors,& Mentees(2019-20).pdf
+https://www.kiet.edu/uploads/naac/2.4.1 DVV Appointment letters.pdf
+https://www.kiet.edu/uploads/naac/2.4.2 DVV Ph.D. Certificate.pdf
+https://www.kiet.edu/uploads/naac/2.4.2,3.1.2 & 3.3.1 University Letter for Research Guide.pdf
+https://www.kiet.edu/uploads/naac/2.4.3 DVV Appointment Letters.pdf
+https://www.kiet.edu/uploads/naac/3.1 . Number of full time teachers year-wise during the last five years.pdf
+https://www.kiet.edu/uploads/naac/3.1.1 & 3.1.3 e-copies of the Grant Award Letters for Sponsored Research ProjectsRndowments.pdf
+https://www.kiet.edu/uploads/naac/3.1.3 Website Links of Funding Agencies.pdf
+https://www.kiet.edu/uploads/naac/3.2 & 2.4.1 Number of sanctioned posts year wise during the last five years.pdf
+https://www.kiet.edu/uploads/naac/3.2.1 Website Links of Innovations.pdf
+https://www.kiet.edu/uploads/naac/3.2.2 Brochures and Details of Resource Persons.pdf
+https://www.kiet.edu/uploads/naac/3.2.2 Reports of the Event.pdf
+https://www.kiet.edu/uploads/naac/3.3.1  Ecopies of letters from the University.pdf
+https://www.kiet.edu/uploads/naac/3.3.3 DVV Session 2015-16.pdf
+https://www.kiet.edu/uploads/naac/3.3.3 DVV Session 2016-17.pdf
+https://www.kiet.edu/uploads/naac/3.3.3 DVV Session 2017-18.pdf
+https://www.kiet.edu/uploads/naac/3.3.3 DVV Session 2018-19.pdf
+https://www.kiet.edu/uploads/naac/3.3.3 DVV Session 2019-20.pdf
+https://www.kiet.edu/uploads/naac/3.3.3 Proofs of Conference Papers and Books.pdf
+https://www.kiet.edu/uploads/naac/3.4.1 Website Links of Extension Activities.pdf
+https://www.kiet.edu/uploads/naac/3.4.3 & 3.4.4 Reports of the Event Organized.pdf
+https://www.kiet.edu/uploads/naac/3.5.2 Details of Activities under MoU.pdf
+https://www.kiet.edu/uploads/naac/3.5.2 e-Copies of MoUs.pdf
+https://www.kiet.edu/uploads/naac/4.1 and 4.1.3 DVV Geotagged photos.pdf
+https://www.kiet.edu/uploads/naac/4.1.1 Infrastructure Augmentation_Highlighted.pdf
+https://www.kiet.edu/uploads/naac/4.1.2 Facilities.pdf
+https://www.kiet.edu/uploads/naac/4.1.3 Classrooms & Conference Halls.pdf
+https://www.kiet.edu/uploads/naac/4.1.4, 4.2.3, 4.4.1, 5.1.2, 5.4.2, 6.4.2 Audited Statement.pdf
+https://www.kiet.edu/uploads/naac/4.2 Total Expenditure Extended Profile.pdf
+https://www.kiet.edu/uploads/naac/4.2.3 Book Bills for Last 5 Years.pdf
+https://www.kiet.edu/uploads/naac/4.2.3 Books with Group Head.pdf
+https://www.kiet.edu/uploads/naac/4.2.3 E-Journals & E-Books Bills (2019-20).pdf
+https://www.kiet.edu/uploads/naac/4.2.3 Print Journals Bills for Last 5 Years.pdf
+https://www.kiet.edu/uploads/naac/4.2.3 e-journals for Last 5 Years.pdf
+https://www.kiet.edu/uploads/naac/4.2.4 Certified E-copy of the ledger for footfalls and online access for 5 days.pdf
+https://www.kiet.edu/uploads/naac/4.3 Number of Computers.pdf
+https://www.kiet.edu/uploads/naac/4.3.2 DVV Student Computer Ratio.pdf
+https://www.kiet.edu/uploads/naac/4.3.3 Internet Bandwidth.pdf
+https://www.kiet.edu/uploads/naac/4.4.1 Physical and Academic Facilities-Highlighted.pdf
+https://www.kiet.edu/uploads/naac/5.1.1 DVV Students benefited by scholarships and free-ships provided by the Government.pdf
+https://www.kiet.edu/uploads/naac/5.1.1 GOVT SCHOLARSHIP.pdf
+https://www.kiet.edu/uploads/naac/5.1.2 Non-Govt Scholarship Policies and Student List.pdf
+https://www.kiet.edu/uploads/naac/5.1.4 AND 5.2.1 PLACED STUDENTS LIST.pdf
+https://www.kiet.edu/uploads/naac/5.1.4 DVV Average percentage of students benefitted by guidance for competitive examinations and career counselling offered by the Institution.pdf
+https://www.kiet.edu/uploads/naac/5.1.4 STUDENT GUIDANCE .pdf
+https://www.kiet.edu/uploads/naac/5.2.2 HIGHER EDUCATION CERTIFICATES.pdf
+https://www.kiet.edu/uploads/naac/5.2.3 DVV GATE GMATCATGRE TOEFL Civil ServicesState Government Examinations Score Cards.pdf
+https://www.kiet.edu/uploads/naac/5.2.3 GATE GMATCATGRE TOEFL Civil ServicesState Government Examinations Score Cards.pdf
+https://www.kiet.edu/uploads/naac/5.3.1 E-Copies of award letters and certificates.pdf
+https://www.kiet.edu/uploads/naac/5.3.3 NOTICES AND CIRCULARS.pdf
+https://www.kiet.edu/uploads/naac/6.1.1 MoM GCM 2016 to 20.pdf
+https://www.kiet.edu/uploads/naac/6.1.1 Prospectus.pdf
+https://www.kiet.edu/uploads/naac/6.1.2 ACM MOM.pdf
+https://www.kiet.edu/uploads/naac/6.1.2 Ofiice order with MoM During Virtual.pdf
+https://www.kiet.edu/uploads/naac/6.2.2 List of all committees.pdf
+https://www.kiet.edu/uploads/naac/6.2.3 DVV response.pdf
+https://www.kiet.edu/uploads/naac/6.3.2 DVV Audited statement of account highlighting the financial support to teachers.pdf
+https://www.kiet.edu/uploads/naac/6.3.2 financial support to attend conferencesworkshops.pdf
+https://www.kiet.edu/uploads/naac/6.3.4  Ecopy of the certificates of the program attended by teachers YEAR WISE.pdf
+https://www.kiet.edu/uploads/naac/6.4.2 Audited Statement with proof.pdf
+https://www.kiet.edu/uploads/naac/6.5.3 DVV IQAC MOM.pdf
+https://www.kiet.edu/uploads/naac/6.5.3 DVV Quality Initiatives.pdf
+https://www.kiet.edu/uploads/naac/7.1.1 - Annual Gender Sensitization Aaction Plan.pdf
+https://www.kiet.edu/uploads/naac/7.1.1 - Promotion of Gender Equity (Photos).pdf
+https://www.kiet.edu/uploads/naac/7.1.10 - Code of Conduct.pdf
+https://www.kiet.edu/uploads/naac/7.1.10 List of Human Value Activities till 31-07-2021.pdf
+https://www.kiet.edu/uploads/naac/7.1.11 - Annual Report.pdf
+https://www.kiet.edu/uploads/naac/7.1.2 - Alternate Sources of Energy and Energy.pdf
+https://www.kiet.edu/uploads/naac/7.1.2 - Facilities for Alternate Sources of Energy and Energy.pdf
+https://www.kiet.edu/uploads/naac/7.1.3 - Facilities in the Institution for the Management of Degradable and Non-Degradable Waste.pdf
+https://www.kiet.edu/uploads/naac/7.1.3 - Management of Degradable and Non-Degradable Waste.pdf
+https://www.kiet.edu/uploads/naac/7.1.4 - Water Conservation Facilities Available.pdf
+https://www.kiet.edu/uploads/naac/7.1.5 - Green Campus Initiatives.pdf
+https://www.kiet.edu/uploads/naac/7.1.5 Green campus initiatives (Geo-Tag Photos).pdf
+https://www.kiet.edu/uploads/naac/7.1.6 - Quality Audits on Environment and Energy Regularly.pdf
+https://www.kiet.edu/uploads/naac/7.1.7 - Disabled-Friendly Barrier Free Environment.pdf
+https://www.kiet.edu/uploads/naac/7.1.8 - Supporting Documents.pdf
+https://www.kiet.edu/uploads/naac/7.2 - Best Practices.pdf
+https://www.kiet.edu/uploads/naac/Annual Report.pdf
+https://www.kiet.edu/uploads/naac/NAAC SSR FINAL 25th August 2021.pdf
+https://www.kiet.edu/uploads/naac/REVISED NAAC SSR 2021 2ND CYCLE OF ACCREDITATION.pdf
+https://www.kiet.edu/www.ijareeie.com
+https://www.kiet.edu/www.ijcrt.org
+https://www.kiet.edu/www.ijste.org
+https://www.kiet.edu/www.indusedu.org
+https://www.kiet.edu/www.iosrjournals.org
+https://www.kiet.edu/www.jetir.org
+https://www.kiet.edu/www.linkedin.com/in/mayank-tyagi-539274131
+https://www.kiet.edu/www.sersc.org
+https://www.kiet.edu/ https:/doi.org/10.1063/1.4951718
+.sersc.org
+https://www.kiet.edu/ https:/doi.org/10.1063/1.4951718
